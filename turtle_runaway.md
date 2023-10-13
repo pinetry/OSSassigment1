@@ -11,7 +11,7 @@
 
 최종적으로 거북이를 빨리 잡으면 잡을 수록 더 높은 점수를 얻게 된다.
 
-게임 시작 화면
+  게임 시작 화면
 
 ![image](https://github.com/pinetry/OSSassigment1/assets/126438169/a7c829d0-e72d-4b02-bd24-1a90bdc03d72)
 
