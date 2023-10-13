@@ -15,11 +15,11 @@
 
 ![image](https://github.com/pinetry/OSSassigment1/assets/126438169/a7c829d0-e72d-4b02-bd24-1a90bdc03d72)
 
-*게임 종료( 다 잡았을 경우)
+게임 종료( 다 잡았을 경우)
 
 ![image](https://github.com/pinetry/OSSassigment1/assets/126438169/4051ded9-c234-471e-973f-a00bf027a532)
 
-*게임 종료( 시간 초과)
+게임 종료( 시간 초과)
 
 ![image](https://github.com/pinetry/OSSassigment1/assets/126438169/de5784f9-3052-45ef-9abe-bbccffd5c2f0)
 
